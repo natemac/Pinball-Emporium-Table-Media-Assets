@@ -6,6 +6,9 @@
 
 *Example Location: PinballEmporium\collections\PinballFX\medium_artwork\cover*
 
+## Tutorial Video:
+[Pinball Emporium - How to add your own tables](https://youtu.be/fw3G0ErqdzA)
+
 ## Media Folders:
 ### cover
 + Details: An image representing the table, text with the table name & using a template from the **Cover** folder.
